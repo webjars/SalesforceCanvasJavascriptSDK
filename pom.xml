@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>SalesforceCanvasJavascriptSDK</artifactId>
-    <version>31.0-SNAPSHOT</version>
+    <version>31.0</version>
     <name>SalesforceCanvasJavascriptSDK</name>
     <description>WebJar for SalesforceCanvasJavascriptSDK</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/SalesforceCanvasJavascriptSDK</url>
         <connection>scm:git:https://github.com/webjars/SalesforceCanvasJavascriptSDK.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/SalesforceCanvasJavascriptSDK.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>SalesforceCanvasJavascriptSDK-31.0</tag>
     </scm>
     
     <build>
